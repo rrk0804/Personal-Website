@@ -6,7 +6,7 @@
 
 :round_pushpin: I am from Cleveland, Ohio.
 
-:clapper: In my free time, I like to compete in marathons, watch soaps, and cook. 
+:clapper: In my free time, I like to watch soaps, compete in marathons, and cook. 
 
 :muscle: I value hard work, honesty, and presistence.
 
