@@ -91,12 +91,7 @@ function Projects({ divRef } : { divRef: React.RefObject<HTMLDivElement> }) {
         }, {
             image: InstagramLogo,
             name: "Instagram Bot",
-            links: [
-                {
-                    linkName: "GitHub",
-                    link: "#"
-                }
-            ],
+            links: [],
             description: "Instagram bot helps people gain more followers and likes. It  " +
                          "follows people on Instagram that match characteristics specified by the " +
                          "user, comments on posts, and regularly posts to keep followers updated. " +
@@ -107,12 +102,7 @@ function Projects({ divRef } : { divRef: React.RefObject<HTMLDivElement> }) {
         }, {
             image: PurdueLogo,
             name: "Purdue Crime Log",
-            links: [
-                {
-                    linkName: "GitHub",
-                    link: "#"
-                }
-            ],
+            links: [],
             description: "This is a data analysis application that aggregates Purdue's daily crime log data. " +
                          "Currently, Purdue only displays crimal activity data for crimes " +
                          "that occured in the past 60 days. New data overrides older data to maintain the " +
