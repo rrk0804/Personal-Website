@@ -57,7 +57,7 @@ function Experience({ divRef } : { divRef: React.RefObject<HTMLDivElement> }) {
         {
             companyLogo: EHLogo,
             companyName: "Elevance Health",
-            companyLocation: "Software Engineering Intern",
+            companyLocation: "Software Engineer",
             fromDate: "May 2024",
             endDate: "Aug 2024",
             description: "This was my second internship at Elevance Health (formerly Anthem, Inc.). " +
@@ -83,7 +83,7 @@ function Experience({ divRef } : { divRef: React.RefObject<HTMLDivElement> }) {
         {
             companyLogo: EHLogo,
             companyName: "Elevance Health",
-            companyLocation: "Software Engineering Intern",
+            companyLocation: "Information Technology Analyst",
             fromDate: "Jun 2024",
             endDate: "Aug 2024",
             description: "This was my first internship at Elevance Health (formerly Anthem, Inc.). " +
