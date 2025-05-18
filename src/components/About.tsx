@@ -3,8 +3,13 @@ function About() {
         <div className="about">
             <section className="about-description">
                 <p>
-                    My name is Rajit Khatri. I am an early career professional with a passion for
-                    creating reliable and fast software applications that humans love. 
+                    One of my most distinct memories of high school is designing a website for a family business using HTML, CSS, and JavaScript. During
+                    the summer between my senior year of high school and freshman year at college, I needed a summer job. An exciting opportunity came to me when a close friend
+                    said that he was looking for someone to design a website for his family's restaurant. I decided to give the challenge a shot. During this 3-month stint, I 
+                    grew from knowing very little about programming to delivering a website that anybody with Internet access could use to view the restaurant menu, learn about
+                    the restaurant's history, and leave reviews. I loved the process of writing code incrementally and interacting with the results on a web browser. I also 
+                    liked the huge open source community of web programmers and used many of their creations to decrease development time. After this summer, I knew that I wanted
+                    to do something related to programming and computers in my future career. So, I ended up choosing computer engineering as my major in college.
                 </p>
                 <p>
                     I am a co-creator of <a href="https://github.com/ECE49595-Team-6/EnhancifyInstall" className="about-link">Enhancify</a>, an open source Spotify extension.
