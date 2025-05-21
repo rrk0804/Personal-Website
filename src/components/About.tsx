@@ -31,7 +31,7 @@ function About() {
                             Discuss coding
                         </li>
                         <li>
-                            Plan a day at one of Cleveland's parks
+                            Plan a day at one of Cleveland's parks           
                         </li>
                     </ul>
                 </p>
